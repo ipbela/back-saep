@@ -3,7 +3,6 @@ package com.example.kaban.models;
 import jakarta.persistence.*;
 
 import java.io.Serializable;
-import java.util.List;
 import java.util.UUID;
 
 @Entity
